@@ -6,7 +6,7 @@ Locked by Jai 2026-09-24. Spec and evidence live in maia:
 
 **nilam is the system. Altrusian is its house theme.** Material is Google's
 system and every Google product is a theme of it; the same shape here. Every
-surface Jai ships (altrusian.com, naina, sparsh, jvoltci.github.io and The Log)
+surface Jai ships (altrusian.com, naina, sparsh, lognjais.github.io and The Log)
 wears this theme.
 
 ## The files, copied whole into every surface, changed in all or none

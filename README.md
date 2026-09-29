@@ -3,7 +3,7 @@
 Paste a magnet, click Save, and your browser downloads the file. That's it.
 
 One page, no queue to manage, no prompts. The bytes come from
-[flai-api](https://github.com/jvoltci/flai-api), a bridge that holds 64 MB of torrent pieces and
+[flai-api](https://github.com/lognjais/flai-api), a bridge that holds 64 MB of torrent pieces and
 forgets the rest.
 
 ## How the download works
@@ -124,7 +124,7 @@ requests. It has to be told.
 
 ## Design system
 
-Everything visual is [nilam](https://jvoltci.github.io/nilam/) 0.6 — one `@import`, no theme
+Everything visual is [nilam](https://lognjais.github.io/nilam/) 0.6 — one `@import`, no theme
 runtime, no JS. Every colour is a nilam token; the page is forced dark with
 `<html class="dark">`.
 

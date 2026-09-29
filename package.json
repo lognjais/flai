@@ -4,7 +4,7 @@
   "description": "flai — resumable torrent downloader in the browser",
   "private": true,
   "type": "module",
-  "homepage": "https://jvoltci.github.io/flai",
+  "homepage": "https://lognjais.github.io/flai",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build && node scripts/check-dashes.mjs dist/index.html dist/assets/*.js",

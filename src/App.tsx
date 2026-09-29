@@ -21,7 +21,7 @@ const STARTED_MS = 8000;
 /** Below this a filter box is noise; above it, a file list is a wall. */
 const FILTER_THRESHOLD = 8;
 /** Where the app builds land. The workflow that makes them is .github/workflows/app.yml. */
-const APP_RELEASES = 'https://github.com/jvoltci/flai/releases';
+const APP_RELEASES = 'https://github.com/lognjais/flai/releases';
 
 /* Every kind carries a glyph as well as a hue. nilam's rule: anything colour-coded needs a
  * second channel, because at hue 285 the status colours collapse under deuteranopia. */
